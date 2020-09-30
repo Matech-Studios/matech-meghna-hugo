@@ -20,45 +20,40 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 7
 [[menu.main]]
-name = "services"
+name = "contact"
 pre = "#"
-url = "services"
-weight = 2
+url = "contact"
+weight = 6
 [[menu.main]]
-name = "portfolio"
+name = "blog"
 pre = "#"
-url = "portfolio"
-weight = 3
+url = "blog"
+weight = 5
 [[menu.main]]
 name = "team"
 pre = "#"
 url = "team"
 weight = 4
 [[menu.main]]
-name = "pricing"
+name = "portfolio"
 pre = "#"
-url = "pricing"
-weight = 5
+url = "portfolio"
+weight = 3
 [[menu.main]]
-name = "blog"
+name = "services"
 pre = "#"
-url = "blog"
-weight = 6
+url = "services"
+weight = 2
 [[menu.main]]
-name = "contact"
+name = "about"
 pre = "#"
-url = "contact"
-weight = 7
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+url = "about"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
