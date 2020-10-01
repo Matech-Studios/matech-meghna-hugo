@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/matech-header-bg.webp"
+  bg_image: "/images/matech-header-bg.jpg"
   icon: ''
   title: Matech Studios
   content: Boutique technology, formed by digital transformation specialists
